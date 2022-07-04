@@ -1,42 +1,40 @@
 
 {
-"News": [ 
-{
-  
-    "tittle": "Pia diz que precisou de coragem para fazer mudanças na seleção feminina",
-    "description": "Amistoso nesta sexta é o penúltimo antes da disputa da Copa América. TV Globo e SporTV transmitem ao vivo. Ge acompanha também em tempo real",
-    "imageUrl": "https://s2.glbimg.com/Rvko8pesTNzEeZv1z4IwmdD0h5E=/0x0:800x534/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/S/rp0AZcQSeffHGr7JqHwA/52167429326-20989c1fe1-c.jpg",
-    "newsUrl": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/24/pia-diz-que-precisou-de-coragem-para-fazer-mudancas-na-selecao-feminina.ghtml",
-    "date":"24/06/2022 06h00",
-  },
-  {
-    "tittle": "Após levar pisão em treino",
-    "description": "Tamires será substituída por Fê Palermo na escalação diante da Dinamarca",
-    "imageUrl": "https://s2.glbimg.com/KY0sD64HV4tJrObrrXWAev102uY=/0x0:799x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/u/k/OXfFCqQHeLrlOJQOPA4Q/52166403117-d5822ebe21-c.jpg",
-    "newsUrl": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/24/apos-levar-pisao-em-treino-tamires-sera-substituida-por-fe-palermo-na-escalacao-diante-da-dinamarca.ghtml",
-    "date":"24/06/2022 07h44",
-  },
-   {
-    "tittle": "Náutico e Sport empatam em 1 a 1",
-    "description": "Primeiro jogo do mata-mata da Série A3 do Brasileiro feminino",
-    "imageUrl": "https://s2.glbimg.com/0_Dx_et-zxWHaByXEQum0NKy-qA=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/D/g/ahz06BRESgfBf1ohIxxA/frame-00-31-07.321.jpg",
-    "newsUrl": "https://ge.globo.com/pe/futebol/noticia/2022/06/19/nautico-e-sport-empatam-em-1-a-1-no-primeiro-jogo-do-mata-mata-da-serie-a3-do-brasileiro-feminino.ghtml",
-    "date":"19/06/2022 17h18",
-   },
-    {
-    "tittle": "Mesmo palco, duas histórias",
-    "description": "Novo clássico Náutico x Sport decide futuro no Brasileiro Feminino",
-    "imageUrl": "https://s2.glbimg.com/FqOH-9CPT2-MENW64lfdA6gRCrM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/1/q0w4TwQUKlTJNXrBjGCQ/frame-00-01-46.618.jpg",
-    "newsUrl": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/19/mesmo-palco-duas-historias-novo-classico-nautico-x-sport-decide-futuro-no-brasileiro-feminino.ghtml",
-    "date":"19/06/2022 04h00",
-  },
-  {
-    "tittle": "Estreia",
-    "description": "Brasileiro Feminino da Série A3 estreia em edição inédita com clássicos na primeira fase",
-    "imageUrl": "https://s2.glbimg.com/f_zJOpmJ6focuNla6b5Io6xYnSE=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/2/cSSB0KQkyMYTOWZELsHQ/sport.jpg",
-    "newsUrl": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml",
-    "date":"11/06/2022 03h30",
-  },
-
-]
+   "News":[
+      {
+         "tittle":"Pia diz que precisou de coragem para fazer mudanças na seleção feminina",
+         "description":"Amistoso nesta sexta é o penúltimo antes da disputa da Copa América. TV Globo e SporTV transmitem ao vivo. Ge acompanha também em tempo real",
+         "imageUrl":"https://s2.glbimg.com/Rvko8pesTNzEeZv1z4IwmdD0h5E=/0x0:800x534/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/L/S/rp0AZcQSeffHGr7JqHwA/52167429326-20989c1fe1-c.jpg",
+         "newsUrl":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/24/pia-diz-que-precisou-de-coragem-para-fazer-mudancas-na-selecao-feminina.ghtml",
+         "date":"24/06/2022 06h00"
+      },
+      {
+         "tittle":"Após levar pisão em treino",
+         "description":"Tamires será substituída por Fê Palermo na escalação diante da Dinamarca",
+         "imageUrl":"https://s2.glbimg.com/KY0sD64HV4tJrObrrXWAev102uY=/0x0:799x533/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/u/k/OXfFCqQHeLrlOJQOPA4Q/52166403117-d5822ebe21-c.jpg",
+         "newsUrl":"https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/24/apos-levar-pisao-em-treino-tamires-sera-substituida-por-fe-palermo-na-escalacao-diante-da-dinamarca.ghtml",
+         "date":"24/06/2022 07h44"
+      },
+      {
+         "tittle":"Náutico e Sport empatam em 1 a 1",
+         "description":"Primeiro jogo do mata-mata da Série A3 do Brasileiro feminino",
+         "imageUrl":"https://s2.glbimg.com/0_Dx_et-zxWHaByXEQum0NKy-qA=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/D/g/ahz06BRESgfBf1ohIxxA/frame-00-31-07.321.jpg",
+         "newsUrl":"https://ge.globo.com/pe/futebol/noticia/2022/06/19/nautico-e-sport-empatam-em-1-a-1-no-primeiro-jogo-do-mata-mata-da-serie-a3-do-brasileiro-feminino.ghtml",
+         "date":"19/06/2022 17h18"
+      },
+      {
+         "tittle":"Mesmo palco, duas histórias",
+         "description":"Novo clássico Náutico x Sport decide futuro no Brasileiro Feminino",
+         "imageUrl":"https://s2.glbimg.com/FqOH-9CPT2-MENW64lfdA6gRCrM=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Z/1/q0w4TwQUKlTJNXrBjGCQ/frame-00-01-46.618.jpg",
+         "newsUrl":"https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/19/mesmo-palco-duas-historias-novo-classico-nautico-x-sport-decide-futuro-no-brasileiro-feminino.ghtml",
+         "date":"19/06/2022 04h00"
+      },
+      {
+         "tittle":"Estreia",
+         "description":"Brasileiro Feminino da Série A3 estreia em edição inédita com clássicos na primeira fase",
+         "imageUrl":"https://s2.glbimg.com/f_zJOpmJ6focuNla6b5Io6xYnSE=/0x0:1024x683/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/0/2/cSSB0KQkyMYTOWZELsHQ/sport.jpg",
+         "newsUrl":"https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/06/11/brasileiro-feminino-da-serie-a3-estreia-em-edicao-inedita-com-classicos-na-primeira-fase.ghtml",
+         "date":"11/06/2022 03h30"
+      }
+   ]
 }
